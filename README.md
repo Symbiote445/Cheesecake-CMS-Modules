@@ -1,4 +1,4 @@
-Cheesecake-Core-Modules-
+Cheesecake CMS Modules
 ========================
 
-Module repo for our Cheesecake Core software.
+Module repo for our Cheesecake CMS software.
